@@ -1,4 +1,4 @@
-This repository contains all the projects i completed during my infosys internship, it contains a separate folder for the final project, which is:
+This repository contains all the projects I completed during my infosys internship, it contains a separate folder for the final project, which is:
 
 Medical AI Chat Application 🏥
 This is a Streamlit-based application that enables users to interact with a medical knowledge assistant. It provides functionality to query a medical knowledge base derived from PDFs, URLs, or a default medical encyclopedia.
