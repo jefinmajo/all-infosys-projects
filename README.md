@@ -2,6 +2,7 @@ This repository contains all the projects i completed during my infosys internsh
 
 Medical AI Chat Application 🏥
 This is a Streamlit-based application that enables users to interact with a medical knowledge assistant. It provides functionality to query a medical knowledge base derived from PDFs, URLs, or a default medical encyclopedia.
+
 Features:
 
 Chat Interface: Ask medical questions in natural language and get AI-powered responses.
