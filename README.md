@@ -22,9 +22,12 @@ Features:
 
 
 Application Architecture:
-      Front-end: Streamlit for a simple, interactive web interface.
+
+        Front-end: 
+        
+        Streamlit for a simple, interactive web interface.
       
-      Back-end:
+        Back-end:
       
         HuggingFace Transformers for embeddings.
         
@@ -34,6 +37,7 @@ Application Architecture:
         
   
 Requirements:
+      
       streamlit>=1.25.0
       
       langchain>=0.0.300
